@@ -1,0 +1,11 @@
+{
+  "name": "karma-cljs.test",
+  "version": "0.0.1",
+  "description": "A karma plugin. Adds cljs.test support",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "./build.sh"
+  },
+  "author": "Ian Duncan",
+  "license": "MIT"
+}
