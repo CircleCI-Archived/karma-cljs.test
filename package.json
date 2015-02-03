@@ -1,6 +1,6 @@
 {
   "name": "karma-cljs.test",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A karma plugin. Adds cljs.test support",
   "main": "lib/index.js",
   "scripts": {
